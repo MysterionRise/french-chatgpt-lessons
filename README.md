@@ -1,1 +1,10 @@
-# Collection of tests for realtime or ultra-fast (under 10 ms) predictions benchmarks and setups
+# Next gen search library
+
+Ideas:
+
+- Support for inverted index based approach
+- Support for signature based approach
+- Support of hashing approach
+- Re-ranking
+
+
