@@ -13,3 +13,5 @@ Ideas for postings:
 - Quasi-succinct indices
 - Roaring bitmaps (https://github.com/RoaringBitmap)
 - DINT
+- Visual retrieval
+- Efficient vector space model encoding
