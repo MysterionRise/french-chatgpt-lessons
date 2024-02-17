@@ -29,10 +29,10 @@ This French song lyric presents a deeper, more complex level of language, includ
 ### Grammar Concepts (Concepts de Grammaire)
 
 - **Adjectives** (Les adjectifs): Descriptive words like "fébrile" and "hagard" modify nouns to describe a state or quality. In French, adjectives agree in gender and number with the nouns they describe.
-  
+
 - **Verbs** (Les verbes): Action words like "tremblent" (tremble) and "bousille" (wreck/destroy) are crucial in constructing sentences. In French, verbs change form based on the subject.
 
-- **Prepositions** (Les prépositions): Words like "autour de" (around) show the relationship between nouns or pronouns and other words in a sentence. 
+- **Prepositions** (Les prépositions): Words like "autour de" (around) show the relationship between nouns or pronouns and other words in a sentence.
 
 ### Pronunciation Tips (Conseils de prononciation)
 
